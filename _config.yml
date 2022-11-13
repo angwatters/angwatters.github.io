@@ -35,16 +35,16 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Angela Watters
-  image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
+  image             : https://angwatters.quarto.pub/data-blog/buffalo.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+ # email             : username@domain.com
 #  facebook          : your_username
   github            : angwatters # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
- linkedin          : angela-watters
+# linkedin          : angela-watters
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
