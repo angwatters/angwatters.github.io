@@ -1,8 +1,8 @@
 ---
-name: Vega Lite Example Project
+name: Alien Sighting Data Set 
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+image: assets/pngs/aliens.jpeg
+description: Data visualizations using the Alien Sighting data set
 custom_js:
   - vega.min
   - vega-lite.min

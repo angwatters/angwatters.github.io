@@ -1,8 +1,8 @@
 ---
-name: Vega Lite Example Project
+name: Mammals Data Set Exploration 
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+image: assets/pngs/mammals.jpeg
+description: This is a project that uses the mammals data set. 
 custom_js:
   - vega.min
   - vega-lite.min

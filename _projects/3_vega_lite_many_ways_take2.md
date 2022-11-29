@@ -1,8 +1,8 @@
 ---
-name: Homework 10
+name: BigFoot Data Set
 tools: [Python, HTML, vega-lite, Jekyll]
-image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+image: assets/pngs/bigfoot.jpeg
+description: Data Visualization using the BigFoot sightings data set
 custom_js:
   - vega.min
   - vega-lite.min
@@ -11,9 +11,9 @@ custom_js:
 ---
 
 
-# Homework 10 
+# Big Foot Dashboard
 
-Write Up 
+
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/dashboard_bf_from_dict.json" style="width: 100%"></vegachart>
 
