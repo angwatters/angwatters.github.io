@@ -7,7 +7,7 @@
 ### Site Settings ###
 title               : Angela Watters 
 description         : >-
-                      I am definitely not a corgi!
+                      Angela Watters is a media professional with eight years experience as a managing editor for an online publication. Currently, I am working as the assistant managing editor for the journal, Library Trends. 
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : angwatters/angwatters.github.io              # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)

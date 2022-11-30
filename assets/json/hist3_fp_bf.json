@@ -1,0 +1,1 @@
+{"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"url": "ufo_sighting_data.csv"}, "mark": "bar", "encoding": {"x": {"field": "UFO_shape", "title": "Shape of UFO", "type": "nominal"}, "y": {"aggregate": "count", "axis": {"title": "Frequency"}}}, "height": 400, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"}
