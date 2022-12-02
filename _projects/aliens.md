@@ -17,10 +17,16 @@ Because they're out there!
 
 By Anushka Gami, Ashwini Sarvepalli, Angela Watters
 
-
+## Introduction
+This is the introduction 
+## 1. Interactive Chart
 <vegachart schema-url="{{ site.baseurl }}/assets/json/dashboard_ufo_jekyll_from_dict.json" style="width: 100%"></vegachart>
 
+## 2. Alien Sightings Throughout the World 
+
 <img src="/assets/pngs/world_map_aliens.png">
+
+## 3. Shape by Country 
 
 <img src="/assets/pngs/us_ufo_shapes.png">
 
@@ -32,10 +38,17 @@ By Anushka Gami, Ashwini Sarvepalli, Angela Watters
 
 <img src="/assets/pngs/au_ufo_shapes.png">
 
+## 4. Thoughts on Shape
+
 <img src="/assets/pngs/ufo_shape_per.png">
 
 <img src="/assets/pngs/us_ufo_shapes.png">
 
+## 5. Length  of Encounters World Wide 
+
+<img src="/assets/pngs/max_min_encounter.png">
+
+<img src="/assets/pngs/average_encounter.png">
 
 ## Search The Data & Methods
 
