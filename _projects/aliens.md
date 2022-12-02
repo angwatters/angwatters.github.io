@@ -13,12 +13,12 @@ custom_js:
 
 <center> <h1>Where Aliens Have Landed</h1></center>
 
-
+<center><h5>They're out there!</h5></center>
 
 <center>By Anushka Gami, Ashwini Sarvepalli, and Angela Watters</center> 
 
 <img src="/assets/pngs/aliens.jpeg" width="600">
-<center><h5>They're out there!</h5></center>
+
 
 Does alien life exist? The answer remains tantalizingly unclear, despite anecdotal evidence of spacecraft sightings. The "UFO Sightings around the World" dataset is modeled on the U.S.-based dataset collected by the National UFO Reporting Center. Still, the author added column headings and additional data to make it worldwide. The data records UFO sightings by the date and time, city, state or province, country, the shape of the craft in one word, the length of the encounter in seconds and a description of that “meeting,” the date it occurred, and its latitude and longitude. 
 
