@@ -11,11 +11,14 @@ custom_js:
 ---
 
 
-# Where Aliens Have Landed
+<center> <h1>Where Aliens Have Landed</h1></center>
 
-Because they're out there!
 
-By Anushka Gami, Ashwini Sarvepalli, Angela Watters
+
+<center>By Anushka Gami, Ashwini Sarvepalli, and Angela Watters</center> 
+
+<img src="/assets/pngs/aliens.jpeg" width="600">
+<center><h5>They're out there!</h5></center>
 
 ## Introduction
 This is the introduction 
@@ -49,6 +52,23 @@ This is the introduction
 <img src="/assets/pngs/max_min_encounter.png">
 
 <img src="/assets/pngs/average_encounter.png">
+
+## Sources
+
+National UFO Reporting Center 
+https://nuforc.org/about-us/
+
+World of UFO Sightings 
+https://www.kaggle.com/code/moosecat/world-ufo-sightings
+
+USA UFO sightings (Python 3 version) 
+https://notebook.community/valter-lisboa/ufo-notebooks/Python3/.ipynb_checkpoints/ufo-sample-python3-checkpoint
+
+Naiman, Jill. Prep-Notebook. Week 3. Finishing up: Visualizing Datatypes - Tabular data with Pandas 
+https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek03%2Fprep_notebook_week03.ipynb
+
+Naiman, Jill. Prep-Notebook. Week 4 
+https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek04%2Fprep_notebook_week04.ipynb
 
 ## Search The Data & Methods
 
