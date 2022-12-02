@@ -20,7 +20,7 @@ By Anushka Gami, Ashwini Sarvepalli, Angela Watters
 ## Introduction
 This is the introduction 
 ## 1. Interactive Chart
-<vegachart schema-url="{{ site.baseurl }}/assets/json/dashboard_ufo_jekyll_from_dict.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/dashboard_ufo5_from_dict.json" style="width: 100%"></vegachart>
 
 ## 2. Alien Sightings Throughout the World 
 
