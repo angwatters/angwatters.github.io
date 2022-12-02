@@ -5,7 +5,7 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Angela Watters 
+title               : DataViz 
 description         : >-
                       Angela Watters is a media professional with eight years experience as a managing editor for an online publication. Currently, I am working as the assistant managing editor for the journal, Library Trends. 
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
