@@ -54,15 +54,6 @@ This is the introduction
 
 Below is where we can put some links to both the data and the analysis code as buttons:
 
-```
-<div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
-</div>
-
-<div class="right">
-{% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
-</div>
-```
 
 <!-- these are written in a combo of html and liquid --> 
 
@@ -71,6 +62,6 @@ Below is where we can put some links to both the data and the analysis code as b
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/angwatters/angwatters.github.io/blob/main/python_notebooks/Sarvepalli_Gami_Watters_Final_Project_3.ipynb" text="The Analysis" %}
 </div>
 
