@@ -65,20 +65,16 @@ The last two graphs look at the length of alien encounters by country. This info
 
 ## Sources
 
-National UFO Reporting Center 
-https://nuforc.org/about-us/
+<a href="https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek04%2Fprep_notebook_week04.ipynb">Naiman, Jill. Prep-Notebook. Week 4 </a>
 
-World of UFO Sightings 
-https://www.kaggle.com/code/moosecat/world-ufo-sightings
+<a href="https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek03%2Fprep_notebook_week03.ipynb">Naiman, Jill. Prep-Notebook. Week 3. Finishing up: Visualizing Datatypes - Tabular data with Pandas </a>
 
-USA UFO sightings (Python 3 version) 
-https://notebook.community/valter-lisboa/ufo-notebooks/Python3/.ipynb_checkpoints/ufo-sample-python3-checkpoint
+<a href="https://nuforc.org/about-us/">National UFO Reporting Center</a>
 
-Naiman, Jill. Prep-Notebook. Week 3. Finishing up: Visualizing Datatypes - Tabular data with Pandas 
-https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek03%2Fprep_notebook_week03.ipynb
+<a href="https://notebook.community/valter-lisboa/ufo-notebooks/Python3/.ipynb_checkpoints/ufo-sample-python3-checkpoint">USA UFO sightings (Python 3 version) </a>
 
-Naiman, Jill. Prep-Notebook. Week 4 
-https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek04%2Fprep_notebook_week04.ipynb
+<a href="https://www.kaggle.com/code/moosecat/world-ufo-sightings">World of UFO Sightings </a>
+ 
 
 ## Search The Data & Methods
 
