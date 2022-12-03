@@ -65,9 +65,17 @@ The last two graphs look at the length of alien encounters by country. This info
 
 ## Sources
 
-<a href="https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek04%2Fprep_notebook_week04.ipynb">Naiman, Jill. Prep-Notebook. Week 4 </a>
+<a href="https://github.com/UIUC-iSchool-DataViz/is445_oauoag_fall2022/blob/main/week10/pdfs/jekyll%20tour%20notes.pdf">Naiman, Jill. Jekyll Tour Notes</a>
+
+<a href="https://github.com/UIUC-iSchool-DataViz/is445_oauoag_fall2022/tree/main/week10/inClass">Naiman, Jill. In class Jekyll resources, Week 10</a>
+
+<a href="https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek11%2FinClass_week11.ipynb">Naiman, Jill. In Class Notebook, Week 11</a>
+
+<a href="https://github.com/UIUC-iSchool-DataViz/is445_oauoag_fall2022/tree/main/week12/inClass">Naiman, Jill. In class Jekyll resources, Week 12</a>
 
 <a href="https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek03%2Fprep_notebook_week03.ipynb">Naiman, Jill. Prep-Notebook. Week 3. Finishing up: Visualizing Datatypes - Tabular data with Pandas </a>
+
+<a href="https://uiuc-ischool-dataviz.github.io/is445_oauoag_fall2022/nbv.html?notebook_name=%2Fis445_oauoag_fall2022%2Fweek04%2Fprep_notebook_week04.ipynb">Naiman, Jill. Prep-Notebook. Week 4 </a>
 
 <a href="https://nuforc.org/about-us/">National UFO Reporting Center</a>
 
