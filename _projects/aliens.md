@@ -78,7 +78,7 @@ The last two graphs look at the length of alien encounters by country. This info
 
 ## Search The Data & Methods
 
-Below is where we can put some links to both the data and the analysis code as buttons:
+Below find links to both the data and the analysis code:
 
 
 <!-- these are written in a combo of html and liquid --> 
