@@ -35,7 +35,7 @@ This visualization presents a world map underneath a layer of longitudes and lat
 
 ## 3. Shape by Country 
 
-The next section of our project takes each of the top five countries and shows the popularity of different UFO shapes for each. Once again, we can observe that the US has significantly more sightings than the other four countries based on the y-axis scale. Light is the most popular shape for all the presented countries: a circle and a triangle are next. There are also significant observations for each country where the shape is unknown or other. Another interesting thing to note is that the US and Canada are the only two countries where the delta shape was observed and that the US is the only one where the 
+The next section of our project takes each of the top five countries and shows the popularity of different UFO shapes for each. Once again, we can observe that the US has significantly more sightings than the other four countries based on the y-axis scale. Light is the most popular shape for all the presented countries: a circle and a triangle are next. There are also significant observations for each country where the shape is unknown or other. Another interesting thing to note is that the US and Canada are the only two countries where the delta shape was observed and that the US is the only one where the crescent shape was observed. 
 
 <img src="/assets/pngs/us_ufo_shapes.png">
 
